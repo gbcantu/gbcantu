@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Gabriel</h1>
-<h3 align="center">I'm graduating in Information and Communication Technology at Faeterj.</h3>
+<h3 align="center">I'm graduating in Information and Communication Technology at Faeterj</h3>
 
 - 📫 How to reach me **gabrieljccantu@gmail.com**
 
