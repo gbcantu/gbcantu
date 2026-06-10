@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Gabriel</h1>
 <h3 align="center">I'm graduating in Information and Communication Technology at Faeterj</h3>
 
-- 📫 How to reach me **gabrieljccantu@gmail.com**
+- 📫 How to reach me **gabrieljoaocariuscantu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
