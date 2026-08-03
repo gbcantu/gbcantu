@@ -20,7 +20,7 @@ I work with <strong>IT Infrastructure, Technical Support, and Full Stack Develop
 
 **Frontend**
 
-React • TypeScript • JavaScript • HTML • CSS • Vite
+React • TypeScript • JavaScript • Vite • Electron 
 
 **Backend**
 
@@ -32,7 +32,7 @@ PostgreSQL • MySQL • SQLite
 
 **Infrastructure & DevOps**
 
-Linux • Docker • Nginx • Git • GitHub
+Linux • Docker • Nginx • Git • GitHub • Windows Server • AD
 
 ---
 
