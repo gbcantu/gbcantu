@@ -1,62 +1,100 @@
-<h1 align="center">Hello, I'm Gabriel</h1>
-<h3 align="center">I'm graduating in Information and Communication Technology at Faeterj</h3>
+# 👋 Hello, I'm Gabriel Cantu
 
-- 📫 How to reach me **gabrieljoaocariuscantu@gmail.com**
+### 💻 Infrastructure Analyst | Full Stack Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabrielcantu0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielcantu0" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/cantugabriel_?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/cantugabriel_?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
-</p>
+I'm an Information and Communication Technology undergraduate at **FAETERJ**.
 
-<h3 align="left">Languages and Tools:</h3>
+Currently, I work in **IT Infrastructure and Technical Support**, managing servers, networks, virtualization, operating systems, and enterprise environments. Alongside my infrastructure role, I also design and develop complete software solutions, from frontend interfaces to backend APIs and desktop applications.
 
-<!-- Frontend -->
-<strong>🌐 Frontend</strong><br>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a> 
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
-  </a> 
-</p>
+My goal is to bridge the gap between infrastructure and software development, building reliable, scalable, and efficient systems.
 
-<!-- Backend -->
-<strong>🛠 Backend</strong><br>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<!-- Banco de Dados -->
-<strong>🗄️ Banco de Dados</strong><br>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>  
-</p>
+## 🚀 What I Do
 
+### 🖥 Infrastructure & IT
 
+* Windows & Linux Administration
+* Technical Support
+* Network Troubleshooting
+* Server Administration
+* Docker
+* Nginx
+* Virtualization
+* Cloud Environments
+* System Deployment
+* Monitoring
+
+### 💻 Software Development
+
+* React
+* TypeScript
+* Python
+* FastAPI
+* Electron
+* REST APIs
+* Desktop Applications
+* SQL Databases
+* Git & GitHub
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* React
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+* Vite
+
+### Backend
+
+* Python
+* FastAPI
+* Django
+* C
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### DevOps & Infrastructure
+
+* Docker
+* Linux
+* Nginx
+* Git
+* GitHub
+
+---
+
+## 🎯 Interests
+
+* Full Stack Development
+* Infrastructure
+* Cloud Computing
+* Automation
+* DevOps
+* Software Architecture
+* System Design
+
+---
+
+## 📫 Contact
+
+📧 **Email**
+
+[gabrieljoaocariuscantu@gmail.com](mailto:gabrieljoaocariuscantu@gmail.com)
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/gabrielcantu0
+
+📷 **Instagram**
+
+https://instagram.com/cantugabriel_
