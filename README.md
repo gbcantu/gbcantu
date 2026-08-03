@@ -1,100 +1,44 @@
-# 👋 Hello, I'm Gabriel Cantu
+<h1 align="center">Hi 👋, I'm Gabriel Cantu</h1>
+<h3 align="center">Infrastructure Analyst & Full Stack Developer</h3>
 
-### 💻 Infrastructure Analyst | Full Stack Developer
-
-I'm an Information and Communication Technology undergraduate at **FAETERJ**.
-
-Currently, I work in **IT Infrastructure and Technical Support**, managing servers, networks, virtualization, operating systems, and enterprise environments. Alongside my infrastructure role, I also design and develop complete software solutions, from frontend interfaces to backend APIs and desktop applications.
-
-My goal is to bridge the gap between infrastructure and software development, building reliable, scalable, and efficient systems.
+<p align="center">
+I work with <strong>IT Infrastructure, Technical Support, and Full Stack Development</strong>, building web, desktop, and API solutions while managing enterprise environments.
+</p>
 
 ---
 
-## 🚀 What I Do
+### 🚀 About Me
 
-### 🖥 Infrastructure & IT
-
-* Windows & Linux Administration
-* Technical Support
-* Network Troubleshooting
-* Server Administration
-* Docker
-* Nginx
-* Virtualization
-* Cloud Environments
-* System Deployment
-* Monitoring
-
-### 💻 Software Development
-
-* React
-* TypeScript
-* Python
-* FastAPI
-* Electron
-* REST APIs
-* Desktop Applications
-* SQL Databases
-* Git & GitHub
+* 💼 Infrastructure Analyst & Technical Support
+* 💻 Full Stack Developer
+* 🎓 Information and Communication Technology student at FAETERJ
+* 🌱 Currently improving my skills in Cloud, DevOps, and Software Architecture
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### Frontend
+**Frontend**
 
-* React
-* TypeScript
-* JavaScript
-* HTML
-* CSS
-* Vite
+React • TypeScript • JavaScript • HTML • CSS • Vite
 
-### Backend
+**Backend**
 
-* Python
-* FastAPI
-* Django
-* C
+Python • FastAPI • Django • C
 
-### Databases
+**Databases**
 
-* PostgreSQL
-* MySQL
-* SQLite
+PostgreSQL • MySQL • SQLite
 
-### DevOps & Infrastructure
+**Infrastructure & DevOps**
 
-* Docker
-* Linux
-* Nginx
-* Git
-* GitHub
+Linux • Docker • Nginx • Git • GitHub
 
 ---
 
-## 🎯 Interests
+### 📫 Contact
 
-* Full Stack Development
-* Infrastructure
-* Cloud Computing
-* Automation
-* DevOps
-* Software Architecture
-* System Design
+📧 **[gabrieljoaocariuscantu@gmail.com](mailto:gabrieljoaocariuscantu@gmail.com)**
 
----
-
-## 📫 Contact
-
-📧 **Email**
-
-[gabrieljoaocariuscantu@gmail.com](mailto:gabrieljoaocariuscantu@gmail.com)
-
-💼 **LinkedIn**
-
+💼 **LinkedIn:**
 https://www.linkedin.com/in/gabrielcantu0
-
-📷 **Instagram**
-
-https://instagram.com/cantugabriel_
